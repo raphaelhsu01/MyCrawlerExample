@@ -29,7 +29,7 @@ public class AppleRealtime {
 		
 		// 遠端資料路徑 test 1
 		String uri = "http://www.appledaily.com.tw/realtimenews/section/new/";
-
+//123
 //		取出即時新聞列表
 //		data sample
 //		----
