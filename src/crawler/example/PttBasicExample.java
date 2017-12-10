@@ -35,7 +35,7 @@ public class PttBasicExample {
 			    //.getFromXml(uri)
 			    
 			    // 這兒開始是 Jsoup Document 物件操作
-			    .select("span.hl.push-tag:contains(推)")
+			    .select("span.hl.push-tag:contains(推)+span.f3.hl.push-userid")
 			    
 		);
 	}
